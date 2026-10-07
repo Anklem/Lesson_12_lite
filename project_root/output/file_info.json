@@ -1,0 +1,16 @@
+[
+    {
+        "name": "project_root/data/processed\\text_file_1_processed.txt",
+        "path": "project_root/data/processed\\text_file_1_processed.txt",
+        "size": 24,
+        "created_at": 1791301238.3759823,
+        "updated_at": 1791363050.9729848
+    },
+    {
+        "name": "project_root/data/processed\\text_file_2_processed.txt",
+        "path": "project_root/data/processed\\text_file_2_processed.txt",
+        "size": 32,
+        "created_at": 1791301238.3787034,
+        "updated_at": 1791363050.9749866
+    }
+]

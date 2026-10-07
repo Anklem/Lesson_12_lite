@@ -1,0 +1,16 @@
+[
+    {
+        "File": "project_root/data/processed\\text_file_1_processed.txt",
+        "Source text": "Hello, world!Bye, world!",
+        "Processed text": "hELLO, WORLD!bYE, WORLD!",
+        "File size, bytes": 24,
+        "Last edit time": "Wed Oct  7 11:50:50 2026"
+    },
+    {
+        "File": "project_root/data/processed\\text_file_2_processed.txt",
+        "Source text": "Hello, UTF world!Bye, UTF world!",
+        "Processed text": "hELLO, utf WORLD!bYE, utf WORLD!",
+        "File size, bytes": 32,
+        "Last edit time": "Wed Oct  7 11:50:50 2026"
+    }
+]
